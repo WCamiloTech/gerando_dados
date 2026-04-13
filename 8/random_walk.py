@@ -32,4 +32,4 @@ class RandomWalk():
             next_y = self.y_values[-1] + y_step
             self.x_values.append(next_x)
             self.y_values.append(next_y)
-            
+
